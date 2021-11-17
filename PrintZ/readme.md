@@ -1,4 +1,4 @@
-#Print Z
+Print Z
 
 You are required to print a 'z' of size 5 using '*'.                               
 
