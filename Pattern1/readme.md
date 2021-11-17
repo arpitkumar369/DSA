@@ -8,7 +8,7 @@
 <h2> Constraints </h2>
 
 1 
-<break>
+<br>
   <h2> Format </h2>
 
   <h3> Input </h3>
@@ -17,22 +17,22 @@ A number n
 
   <h3> Output </h3>
   
-  *
-  * *
-  * * *
-  * * * *
-  * * * * *
+~* <br>
+~* * <br>
+~* * * <br>
+~* * * * <br>
+~* * * * *
 
-<break>
+<br>
 
   <h2> Example </h2>
 
   <h3> Sample Input </h3>
 
 2
-  <break>
+  <br>
 
   <h3> Sample Output </h3>
 
-*
-* *
+~* <br>
+~* *
