@@ -16,13 +16,6 @@
 A number n
 
 <h4> Output </h4>
-  <h6>
-        *	<br>
-			*	*	<br>
-		*	*	*	<br>
-	*	*	*	*	<br>
-*	*	*	*	* </h6>
-
 
 <h3> Example </h3>
 
@@ -32,9 +25,6 @@ A number n
 
 <h4> Sample Output </h4>
 
-<h6>
-        *	<br>
-			*	*	<br>
-		*	*	*	<br>
-	*	*	*	*	<br>
-*	*	*	*	*	</h6>
+![pat3](https://user-images.githubusercontent.com/81521655/142217363-f135fcc9-04a1-46e8-8deb-03990281586e.jpeg)
+
+
