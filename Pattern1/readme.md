@@ -1,5 +1,7 @@
-<h1> Pattern 1 </h1>
-
+<head> 
+  <h1> Pattern 1 </h1>
+  </head>
+<body>
 <h2> Easy </h2>
 
 1. You are given a number n.
@@ -17,12 +19,13 @@ A number n
 
   <h3> Output </h3>
   
-~* <br>
-~* * <br>
-~* * * <br>
-~* * * * <br>
-~* * * * *
-
+<h6>
+* <br>
+* * <br>
+* * * <br>
+* * * * <br>
+* * * * * <br>
+  </h6>
 <br>
 
   <h2> Example </h2>
@@ -34,5 +37,7 @@ A number n
 
   <h3> Sample Output </h3>
 
-~* <br>
-~* *
+<h6>
+* <br>
+* * </h6>
+</body>
