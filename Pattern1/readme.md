@@ -1,7 +1,6 @@
-<head> 
-  <h1> Pattern 1 </h1>
-  </head>
-<body>
+<h1> Pattern 1 </h1>
+  
+
 <h2> Easy </h2>
 
 1. You are given a number n.
@@ -40,4 +39,4 @@ A number n
 <h6>
 * <br>
 * * </h6>
-</body>
+
